@@ -1,0 +1,9 @@
+#1. In the given Singleton program, make necessary changes, so that upto 3 new instances can be created, and for subsequent requests/calls return any one of the existing 3 instances, 
+a) randomly
+b) sequence - round robin
+
+#2. can a static method be overridden? provide source code example
+
+#3. Can a method with throws in derived class override a method without throws in Base class?
+
+#4. Create abstract class Employee, derived classes PermanentEmployee, COntractEmployee. create an array of type Employee which can store objects of type PermanentEmployee or COntractEmployee. Iterate thru array(or any Collection) and display details.

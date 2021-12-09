@@ -1,0 +1,3 @@
+#1. where all throw statement can be used. Provide source code example for the same?
+#2. create a custom Unchecked Exception and throws from one package to another?
+#3. Let main thread provide a string to Child Thread and child thread can reverse the string, and reversed string can be displayed by main thread. Use wait(), notify() to communicate between main and child threads.

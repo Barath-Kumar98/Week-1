@@ -1,0 +1,43 @@
+Day 2:
+
+#1. Create ArrayList of Employee names, convert it into TreeSet iterate and display
+#2. Create a custom ArrayList which can store only two duplicate objects?
+#3. Make necessary changes to run below code
+@FunctionalInterface
+interface IXyz{
+void met();
+}
+
+ 
+
+int met9(IXyz oxyz){
+
+ 
+
+}
+
+ 
+
+met9(()->{});
+#4. Create HashSet of Product objects, apply reduce( ), to find Product of minimum price, and print.
+
+ 
+
+#5. In given DataInput/OutputStream make necessary source code changes to add pincode? 
+
+assignment ref - https://medium.com/@sureshkumar_95502/how-to-create-custom-java-collection-by-extending-from-an-existing-collection-class-3682e6d0ad8
+
+
+
+ 
+ 
+ 
+
+#5. In given DataInput/OutputStream make necessary source code changes to add pincode? 
+
+assignment ref - https://medium.com/@sureshkumar_95502/how-to-create-custom-java-collection-by-extending-from-an-existing-collection-class-3682e6d0ad8
+
+
+
+ 
+ 

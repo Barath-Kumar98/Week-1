@@ -1,0 +1,9 @@
+Day 4: 
+#1. create a tweet db, which can retrieve tweets and related details, from database and display? add jdbc jar to Build path
+#2. Repeat above using PreparedStatement, use Maven project(use LIKE to retrieve records in which name contains character 'a')
+
+#3. Develop a program, which can insert tweets[instead of executeQuery(), use executeUpdate()], using PreparedStatement, use Maven Project
+
+#4. In given Facade Design Pattern example, make necessary changes, to add HardwareModule, with methods such as getStatus(), sendData(), recvData()
+
+#5. Make necessary changes in Composite Design Pattern example provide, provide getCosting() method in Employee, which returns sum of Salaries of Employee directly or indirectly reporting to a Director.
