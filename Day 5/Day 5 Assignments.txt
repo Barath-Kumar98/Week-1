@@ -1,0 +1,5 @@
+Day 5:
+
+#1. Make necessary source code changes in Builder design pattern, to add honey ingredient as well?
+#2. Make neccassary changes in Factory Pattern example, to support SportsCar also?
+#3. Read text from a file, use java regex to identify mail ids in above file, display
